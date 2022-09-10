@@ -1,2 +1,4 @@
 # Tech-Stopper-_WW1_
-This mod doesn't allow to continue on further techs, to the point that would be the WW1 techs. Tech Stopper Series.
+Tech stopper is a mod that makes it practically impossible to get pass the desired era, in this case, the techs that simulate WW1 era. Once the WW1 era is completed, you won't be able to progress in the tech tree.
+
+The mod doesn't change vanilla gameplay, for the exceptions of moving Combustion inside the allowed area.
