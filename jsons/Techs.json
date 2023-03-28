@@ -448,7 +448,7 @@
 			{
 				"name": "Combustion",
 				"row": 7,
-				"prerequisites": ["Railroads"],
+				"prerequisites": ["Steam Power"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			},
 			{
@@ -515,7 +515,7 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["You... shall not... PASS!!"],
+				"prerequisites": ["Plastics"],
 				"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
