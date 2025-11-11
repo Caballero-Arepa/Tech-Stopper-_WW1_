@@ -233,6 +233,7 @@
 				"name": "Chivalry",
 				"row": 6,
 				"prerequisites": ["Civil Service","Guilds"],
+				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
 			{
@@ -470,8 +471,18 @@
 				"name": "You... shall not... PASS!!",
 				"row": 6,
 				"prerequisites": ["Refrigeration","Radio","Replaceable Parts","Flight","Combustion","Railroads"],
-				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...", "Can be continually researched"],
+				"uniques": ["Only available <before discovering [Agriculture]>",
+					"Comment [And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...]",
+					"Can be continually researched"],
 				"quote": "NO! This isn't supposed how you play the game! You can't pass on from here, I won't allow you. No"
+			},
+			{
+				"name": "Science Campfire",
+				"row": 9,
+				"prerequisites": ["Refrigeration","Radio","Replaceable Parts","Flight","Combustion","Railroads"],
+				"uniques": [
+					"Comment [And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...]",
+					"Can be continually researched"],
 			},
 		]
 	},
@@ -669,7 +680,7 @@
 				"name": "Future Tech",
 				"row": 5,
 				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"uniques": ["Comment [Who knows what the future holds?]", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			}
 		]
